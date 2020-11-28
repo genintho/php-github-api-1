@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "php": "^7.1",
+        "php": "^7.2|^8.0",
         "php-http/client-common": "^2.3",
         "php-http/cache-plugin": "^1.7",
         "php-http/discovery": "^1.11",
